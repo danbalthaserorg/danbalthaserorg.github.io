@@ -1,0 +1,21 @@
+* {-webkit-font-smoothing: antialiased;}
+
+body {
+	background-color: rgb(27, 27, 27);
+}
+
+#page-title {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 100;
+	font-size: 40px;	
+	color: #fff;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#copyright {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 400;
+	color: #fff;
+	text-align: center;
+}
